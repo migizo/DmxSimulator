@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2048308405
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: boxwallcornelbox
+      Dependencies: {}
+    Info_1:
+      Name: planewallcornelbox
+      Dependencies: {}
+    Info_2:
+      Name: sample
+      Dependencies: {}

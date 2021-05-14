@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3692367803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6496b181c3e70a4d9e040b14ca4942ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Material/EmissiveLED.mat
+Dependencies: []

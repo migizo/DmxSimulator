@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2462726571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed04e0ea07d57d2149bc8329d578ba4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9e1a8ed7f61e0f6769549f6cedb0470
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/PlaneWallCornelBox.prefab
+- Assets/Resources/LedCube.prefab
+- Assets/Resources/BoxWallCornelBox.prefab
+- Assets/Resources/ServoMotor.prefab
+- Assets/Resources/LedBarPitch16f5mm10x1.prefab
+- Assets/Resources/sample.obj
+Dependencies: []

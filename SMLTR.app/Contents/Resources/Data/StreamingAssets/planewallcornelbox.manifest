@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 922905473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40a7395f1c997184b6cd847a371de081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f073edb454177d7ec8680f16e1b75c42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/PlaneWallCornelBox.prefab
+Dependencies: []

@@ -1,0 +1,1837 @@
+{
+  "projectName": "SAMPLE",
+  "stageModelPath": "sample",
+  "deviceDmxArray": [
+    {
+      "managerScriptName": "LedCubeDeviceDmxManager",
+      "prefabName": "LedCube",
+      "perDmxChannel": 16,
+      "deviceDmxInfomationArray": [
+        {
+          "startDmxChannel": 1,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 17,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 33,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 49,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 65,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 81,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 97,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 113,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 129,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 145,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 161,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 177,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 193,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 209,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 225,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 241,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 257,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 273,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 289,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 305,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 321,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 337,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 353,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 369,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 385,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 401,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 417,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 433,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 449,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 465,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 481,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 497,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 513,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 529,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 545,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 561,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 577,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 593,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 609,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 625,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 641,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 657,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 673,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 689,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 705,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 721,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 737,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 753,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 769,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 785,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 801,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 817,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 833,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 849,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 865,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 881,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 897,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 913,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 929,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 945,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 961,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 977,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 993,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1009,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1025,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1041,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1057,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1073,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1089,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1105,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1121,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1137,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1153,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1169,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1185,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1201,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1217,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1233,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1249,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1265,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1281,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1297,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1313,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1329,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1345,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1361,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1377,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1393,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1409,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1425,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1441,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1457,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1473,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1489,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1505,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1521,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1537,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1553,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1569,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1585,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        }
+      ]
+    },
+    {
+      "managerScriptName": "LedCubeDeviceDmxManager",
+      "prefabName": "LedCube",
+      "perDmxChannel": 16,
+      "deviceDmxInfomationArray": [
+        {
+          "startDmxChannel": 1,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 17,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 33,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 49,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 65,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 81,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 97,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 113,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 129,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 145,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -4.5,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 161,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 177,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 193,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 209,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 225,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 241,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 257,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 273,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 289,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 305,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 321,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 337,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 353,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 369,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 385,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 401,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 417,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 433,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 449,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 465,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -2.700000047683716,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 481,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 497,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 513,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 529,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 545,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 561,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 577,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 593,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 609,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 625,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.8000000715255738,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 641,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 657,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 673,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 689,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 705,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 721,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 737,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 753,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 769,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 785,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -0.9000000953674316,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 801,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 817,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 833,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 849,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 865,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 881,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 897,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 913,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 929,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 945,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": -1.1920928955078126e-7,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 961,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 977,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 993,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1009,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1025,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1041,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1057,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1073,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1089,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1105,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 0.8999998569488525,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1121,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1137,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1153,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1169,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1185,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1201,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1217,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1233,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1249,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1265,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 1.7999998331069947,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1281,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1297,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1313,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1329,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1345,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1361,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1377,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1393,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1409,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1425,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 2.6999998092651369,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1441,
+          "posX": -4.5,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1457,
+          "posX": -3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1473,
+          "posX": -2.700000047683716,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1489,
+          "posX": -1.8000000715255738,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1505,
+          "posX": -0.9000000953674316,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1521,
+          "posX": -1.1920928955078126e-7,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1537,
+          "posX": 0.8999998569488525,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1553,
+          "posX": 1.7999998331069947,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1569,
+          "posX": 2.6999998092651369,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        },
+        {
+          "startDmxChannel": 1585,
+          "posX": 3.5999999046325685,
+          "posY": 1.0,
+          "posZ": 3.5999999046325685,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        }
+      ]
+    }
+  ],
+  "deviceMidiArray": [
+    {
+      "managerScriptName": "ServoMotorDeviceMidiManager",
+      "prefabName": "ServoMotor",
+      "deviceMidiInfomationArray": [
+        {
+          "channel": 1,
+          "posX": 0.0,
+          "posY": 1.0,
+          "posZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0
+        }
+      ]
+    }
+  ]
+}

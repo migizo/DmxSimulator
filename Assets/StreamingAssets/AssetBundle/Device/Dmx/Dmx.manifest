@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2798845007
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ledbarpitch16f5mm10x1
+      Dependencies: {}
+    Info_1:
+      Name: ledcube
+      Dependencies: {}

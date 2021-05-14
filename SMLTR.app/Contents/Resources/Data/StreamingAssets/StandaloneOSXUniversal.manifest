@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1421918275
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: boxwallcornelbox
+      Dependencies: {}
+    Info_1:
+      Name: ledbarpitch16f5mm10x1
+      Dependencies: {}
+    Info_2:
+      Name: ledcube
+      Dependencies: {}
+    Info_3:
+      Name: planewallcornelbox
+      Dependencies: {}
+    Info_4:
+      Name: sample
+      Dependencies: {}
+    Info_5:
+      Name: servomotor
+      Dependencies: {}
